@@ -6,4 +6,4 @@ Natours Responsive Website Using Advanced :
 - CSS ("No Flexbox, No Grid")
 - SASS
 
-Click Here : https://riahiachraf.github.io/Natours-Responsive-Website-Using-Advanced-HTML-CSS-SASS/
+Demo : https://riahiachraf.github.io/Natours-Responsive-Website-Using-Advanced-HTML-CSS-SASS/
