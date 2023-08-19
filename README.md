@@ -1,9 +1,15 @@
-# Natours-Responsive-Website-Using-Advanced-HTML-CSS-SASS
+# Natours
 
-Natours Responsive Website Using Advanced :
+ Responsive Website Design Using Advanced HTML, CSS, and SASS.
 
-- HTML 
-- CSS ("No Flexbox, No Grid")
+Demo: <a href="https://github.com/RiahiAchraf/NatoursS" target="_blank" rel="noopener noreferrer">Natours</a>
+
+Build : 
+- HTML
+- CSS
 - SASS
 
-Demo : https://riahiachraf.github.io/Natours-Responsive-Website-Using-Advanced-HTML-CSS-SASS/
+Deployed : 
+- Github
+
+
