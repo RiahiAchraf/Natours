@@ -1,4 +1,5 @@
 # Natours
+## Explore Thrills, Discover New Adventures
 
  Responsive Website Design Using Advanced HTML, CSS, and SASS.
 
